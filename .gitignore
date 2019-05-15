@@ -13,3 +13,10 @@ Saved
 *.xcodeproj
 *.xcworkspace
 Content/Maps/CTF_Harbour.umap
+Build/WindowsNoEditor/TanksALot/Content/Paks/TanksALot-WindowsNoEditor.pak
+Build/WindowsNoEditor/TanksALot.exe
+Build/WindowsNoEditor/Manifest_NonUFSFiles_Win64.txt
+Build/WindowsNoEditor/Manifest_DebugFiles_Win64.txt
+Build/WindowsNoEditor/FileOpenOrder/EditorOpenOrder.log
+Build/WindowsNoEditor/FileOpenOrder/CookerOpenOrder.log
+Build/WindowsNoEditor/Engine/Extras/Redist/en-us/UE4PrereqSetup_x64.exe
