@@ -15,3 +15,8 @@ Build
 *.xcworkspace
 Content/Maps/CTF_Harbour.umap
 BUILD4ALAN/WindowsNoEditor/TanksALot/Content/Paks/TanksALot-WindowsNoEditor.pak
+BUILD4ALAN.zip
+BUILD4ALAN/WindowsNoEditor/Engine/Extras/Redist/en-us/UE4PrereqSetup_x64.exe
+BUILD4ALAN/WindowsNoEditor/Manifest_DebugFiles_Win64.txt
+BUILD4ALAN/WindowsNoEditor/Manifest_NonUFSFiles_Win64.txt
+BUILD4ALAN/WindowsNoEditor/TanksALot.exe
